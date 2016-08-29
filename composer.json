@@ -1,0 +1,15 @@
+{
+    "name": "lyoshenka/php-hmac",
+    "description": "A generic HMAC function that can be used with any hash",
+    "keywords": ["hash","hmac"],
+    "homepage": "https://github.com/lyoshenka/php-hmac",
+    "license": "MIT",
+    "require": {
+        "php": "^5.4 || ^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "lyoshenka\\": ""
+        }
+    }
+}
