@@ -10,6 +10,7 @@ A generic HMAC function that can be used with any hash
 
 ## Use
 
+    <?php
     require __DIR__.'/vendor/autoload.php';
 
     # Ensure that your hash functions returns raw output (not hex)
