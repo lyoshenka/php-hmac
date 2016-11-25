@@ -5,7 +5,7 @@ A generic HMAC function that can be used with any hash
 
 ## Install
 
-    composer install php-hmac
+    composer install lyoshenka/php-hmac
 
 
 ## Use
